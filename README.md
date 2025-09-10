@@ -12,12 +12,16 @@ Do your best to replicate the following simple graphics:
 
 1. Pulsing Flower
 ![75f8b7ade447b2ad49c9f19aa0f190c9](https://user-images.githubusercontent.com/1758825/133500768-45b053c2-1885-4108-84a8-4cbf3f10318d.gif)
+*Solution:* https://www.shadertoy.com/view/tfffDr
 
-2. Spinning Flower
+1. Spinning Flower
 ![dbd6b5b655de0843869f06d8f9871770](https://user-images.githubusercontent.com/1758825/133485625-8385c7ca-6015-4809-b8ad-3311df071889.gif)
+*Solution:* https://www.shadertoy.com/view/WclfWn
 
-3. Modify the base code to create a new flower!
+2. Modify the base code to create a new flower!
 - Ideas: add additional shapes, create an interior for the flower, change the animation, make your flower explode, add an animated background, use color gradients.
+
+*Solution:* https://www.shadertoy.com/view/3fsfWn
 
 # Submission
 - Create a pull request to this repository
