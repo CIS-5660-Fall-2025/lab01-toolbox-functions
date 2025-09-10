@@ -1,5 +1,15 @@
 # Lab01: Toolbox Functions
 
+Name: Tianhong Zhou
+
+Links:
+
+1. [Pulsing Flower](https://www.shadertoy.com/view/wcfBDr)
+
+2. [Spinning Flower](https://www.shadertoy.com/view/3clfWr)
+
+3. [Creative Flower](https://www.shadertoy.com/view/3flfDr)
+
 Let's practice using some tool box functions! You may work with a partner for this one.
 
 # Setup 
