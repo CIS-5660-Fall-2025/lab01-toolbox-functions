@@ -1,3 +1,13 @@
+# Submission
+
+Worked alongside Rebecca Feng
+
+1: [Pulsing Flower](https://www.shadertoy.com/view/3flfDn)
+
+2: [Spinning Flower](https://www.shadertoy.com/view/3csfWr)
+
+Custom: [Psychedelic Spongebob Flowers](https://www.shadertoy.com/view/WfXfW8)
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
@@ -18,9 +28,3 @@ Do your best to replicate the following simple graphics:
 
 3. Modify the base code to create a new flower!
 - Ideas: add additional shapes, create an interior for the flower, change the animation, make your flower explode, add an animated background, use color gradients.
-
-# Submission
-- Create a pull request to this repository
-- In the README, include the names of both your team members
-- In the README, create a link to your shader toy solutions for these three prompts
-- Make sure all three of your shadertoys are set to UNLISTED or PUBLIC (so we can see them!)
