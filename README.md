@@ -1,3 +1,9 @@
+# Submission Links
+Aidan Gideon
+[Puzzle 1](https://www.shadertoy.com/view/wfsfWn)
+[Puzzle 2](https://www.shadertoy.com/view/tfsfWn)
+[Puzzle 3](https://www.shadertoy.com/view/3fsBWn)
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
