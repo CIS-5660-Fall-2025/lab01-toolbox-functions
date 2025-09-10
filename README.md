@@ -1,3 +1,10 @@
+## Griffin Evans (no teammate)
+
+All three of the prompts are included here: https://www.shadertoy.com/view/3csfWn
+
+Change the "#define PART" to 1, 2, or 3 to see each of the respective versions.
+
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
