@@ -1,5 +1,10 @@
 # Lab01: Toolbox Functions
 
+Name: Avi Serebrenik
+Teammate: Daniel.
+Shadertoy Link: https://www.shadertoy.com/view/WflBDn  -- please use the definitions at the top of Image to show the solutions for each 3 flowers
+
+
 Let's practice using some tool box functions! You may work with a partner for this one.
 
 # Setup 
