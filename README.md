@@ -1,3 +1,10 @@
+Daniel Chen
+1. https://www.shadertoy.com/view/3csBDn
+2. https://www.shadertoy.com/view/WflBWr
+3. https://www.shadertoy.com/view/WfsfWr
+
+---
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
