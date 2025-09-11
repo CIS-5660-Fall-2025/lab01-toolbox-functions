@@ -5,7 +5,9 @@ Let's practice using some tool box functions! You may work with a partner for th
 # ShaderToy Links
 
 Part 1: https://www.shadertoy.com/view/3clBDn
+
 Part 2: https://www.shadertoy.com/view/WclfDr
+
 Part 3: https://www.shadertoy.com/view/wflfWn
 
 # Setup 
