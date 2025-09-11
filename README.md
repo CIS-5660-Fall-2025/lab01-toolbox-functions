@@ -1,5 +1,12 @@
 # Lab01: Toolbox Functions
 
+My shaders:
+pulsar flower: https://www.shadertoy.com/view/tfsBWn
+flipping shader: https://www.shadertoy.com/view/wflBWn
+original flower: https://www.shadertoy.com/view/tcffWH
+
+I want to get better at shaders
+
 Let's practice using some tool box functions! You may work with a partner for this one.
 
 # Setup 
