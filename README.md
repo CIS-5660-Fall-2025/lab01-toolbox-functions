@@ -1,3 +1,8 @@
+# Links to ShaderToy
+Pulsing Flower: https://www.shadertoy.com/view/tcsBWn <br />
+Spinning Flower: https://www.shadertoy.com/view/WfsfWn# <br />
+Custom Flower: https://www.shadertoy.com/view/wfsBWn# <br />
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
