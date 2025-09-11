@@ -24,3 +24,18 @@ Do your best to replicate the following simple graphics:
 - In the README, include the names of both your team members
 - In the README, create a link to your shader toy solutions for these three prompts
 - Make sure all three of your shadertoys are set to UNLISTED or PUBLIC (so we can see them!)
+
+
+# My Submission
+- I'd like to put my submissions by gif right here, and this is my [lab 01 link](https://www.shadertoy.com/view/WcsBDn):
+    1. Pulsing Flower
+    ![Pulsing Flower](./Pulsing%20Flower.gif)
+
+    2. Spinning Flower
+    ![Spinning Flower](./Spinning%20Flower.gif)
+
+    3. More to do
+
+    I have tried to change the color of the color. Hope you may see the flower with gradient color with the two gif above.
+
+    If there's any problem with my link such as my shadertoy is private and unable to be seen, please let me know!
