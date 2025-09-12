@@ -1,3 +1,7 @@
+[Pulsing flower](https://www.shadertoy.com/view/wcsBWN)  
+[Spinning flower](https://www.shadertoy.com/view/wfsfDN)  
+[Custom flower](https://www.shadertoy.com/view/WcfBWM)
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
