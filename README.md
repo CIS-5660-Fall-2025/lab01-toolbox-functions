@@ -1,6 +1,10 @@
 # Lab01: Toolbox Functions
 
-Let's practice using some tool box functions! You may work with a partner for this one.
+# Implementation Links: 
+
+**Pulsing Flower:** https://www.shadertoy.com/view/wflBWN </br>
+**Spinning Flower:** https://www.shadertoy.com/view/wflfWN </br>
+**New Flower:** https://www.shadertoy.com/view/tfsBDN
 
 # Setup 
 
