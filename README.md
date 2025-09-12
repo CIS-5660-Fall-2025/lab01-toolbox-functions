@@ -2,8 +2,8 @@
 
 # Implementation Links: 
 
-**Pulsing Flower:** https://www.shadertoy.com/view/wflBWN
-**Spinning Flower:** https://www.shadertoy.com/view/wflfWN
+**Pulsing Flower:** https://www.shadertoy.com/view/wflBWN </br>
+**Spinning Flower:** https://www.shadertoy.com/view/wflfWN </br>
 **New Flower:** https://www.shadertoy.com/view/tfsBDN
 
 # Setup 
